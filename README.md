@@ -29,7 +29,7 @@ For this project, I used 2016 Airbnb data for two U.S. cities, Seattle and Bosto
 
 <a id="results"></a>
 
-The results are discussed at my personal post [here](#).
+The results are discussed at my personal post <a href="https://medium.com/@sukjh87/a-sneak-peak-at-airbnb-business-using-useful-python-data-analysis-tools-661d42cad666">here</a>.
 
 <br>
 
@@ -80,7 +80,7 @@ ModuleNotFoundError. I researched online and found some breakthroughts that work
 
 In case that you face OSError when loading GeoPandas libraries. It worked fine for me when I reinstalled the entire packages.
 
-When installing GeoPandas packages, **make sure** that you have already installed dependencies (pandas fiona shapely pyproj rtree descartes) prior to geopandas. Official documentation is at the link [here](https://geopandas.org/install.html)
+When installing GeoPandas packages, **make sure** that you have already installed dependencies (pandas fiona shapely pyproj rtree descartes) prior to geopandas. Official documentation is at the link [here](https://geopandas.org/install.html).
 
 <br>
 
